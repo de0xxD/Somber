@@ -11,7 +11,8 @@
 ## ⚙️ Features
 
 - Classic Quake-like movement
-- AI: patrol, detection, reaction
+- Dynamic gameplay (You can oneshot mini-boss with high speed of your body)
+- AI: patrol, detection, reaction and player chasing on roofs
 - Arena combat + story elements
 - Dynamic music system
 
